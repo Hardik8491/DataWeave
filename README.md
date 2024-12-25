@@ -9,21 +9,8 @@
     Open-Source No-Code Web Data Extraction Platform <br>
 </h1>
 
-<p align="center">
-Maxun lets you train a robot in 2 minutes and scrape the web on auto-pilot. Web data extraction doesn't get easier than this!
-</p>
 
 
-<p align="center">
-    <a href="https://maxun-website.vercel.app/?ref=ghread"><b>Website</b></a> |
-    <a href="https://discord.gg/5GbPjBUkws"><b>Discord</b></a> |
-    <a href="https://x.com/maxun_io?ref=ghread"><b>Twitter</b></a> |
-    <a href="https://docs.google.com/forms/d/e/1FAIpQLSdbD2uhqC4sbg4eLZ9qrFbyrfkXZ2XsI6dQ0USRCQNZNn5pzg/viewform"><b>Join Maxun Cloud</b></a> | 
-    <a href="https://www.youtube.com/@MaxunOSS?ref=ghread"><b>Watch Tutorials</b></a>
-    <br />
-    <br />
-<a href="https://trendshift.io/repositories/12113" target="_blank"><img src="https://trendshift.io/api/badge/repositories/12113" alt="getmaxun%2Fmaxun | Trendshift" style="width: 250px; height: 55px; margin-top: 10px;" width="250" height="55"/></a>
-</p>
 
 ![maxun_demo](https://github.com/user-attachments/assets/a61ba670-e56a-4ae1-9681-0b4bd6ba9cdc)
 
@@ -137,20 +124,5 @@ BYOP (Bring Your Own Proxy) lets you connect external proxies to bypass anti-bot
 We offer a managed cloud version to run Maxun without having to manage the infrastructure and extract data at scale. Maxun cloud also deals with anti-bot detection, huge proxy network with automatic proxy rotation, and CAPTCHA solving. If this interests you, [join the cloud waitlist](https://docs.google.com/forms/d/e/1FAIpQLSdbD2uhqC4sbg4eLZ9qrFbyrfkXZ2XsI6dQ0USRCQNZNn5pzg/viewform) as we launch soon.
 
 
-# Note
-This project is in early stages of development. Your feedback is very important for us - we're actively working to improve the product. <a href="https://forms.gle/E8vRMVB7bUbsSktPA">Drop anonymous feedback here.</a>
 
-# License
-<p>
-This project is licensed under <a href="./LICENSE">AGPLv3</a>.
-</p>
-
-# Contributors
-Thank you to the combined efforts of everyone who contributes!
-
-<a href="https://github.com/getmaxun/maxun/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=getmaxun/maxun" />
-</a>
-#   D a t a W e a v e 
- 
  
