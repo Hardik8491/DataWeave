@@ -3,7 +3,7 @@
         <a href="https://maxun-website.vercel.app/?ref=ghread">
             <img src="/src/assets/maxunlogo.png" width="50" />
             <br>
-            Maxun
+            DataWaeve
         </a>
     </div>
     Open-Source No-Code Web Data Extraction Platform <br>
@@ -161,5 +161,6 @@ Thank you to the combined efforts of everyone who contributes!
 <a href="https://github.com/getmaxun/maxun/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=getmaxun/maxun" />
 </a>
-#   D a t a W e a v e  
+#   D a t a W e a v e 
+ 
  
